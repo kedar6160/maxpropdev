@@ -5,7 +5,9 @@ body {
 }
 
 /* Back to top button */
-
+.row .member{
+  padding: inherit;
+}
 .back-to-top {
   position: fixed;
   display: none;
